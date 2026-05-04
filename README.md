@@ -1,9 +1,12 @@
-### Hello, I am Pichaya Puttekulangkura (Micky)!
+### Hi, I am Pichaya Puttekulangkura but you can call me Micky!
 
-- 📚 Fresh grad engineering student (ICE) from Chulalongkorn University
-- 🚀 Fullstack Blockchain Engineer at GuildFi
-- 📫 How to reach me: Linkedin [Pichaya Puttekulangkura](https://www.linkedin.com/in/pichaya-puttekulangkura/)
+I am a **Senior Software Engineer at Zentry**, AI transformation builder, and product engineer.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mickyngub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+I build production software across agentic AI, trading systems, Web3, and modern web applications. My work focuses on turning emerging technologies into practical tools, workflows, and systems that create real operational leverage.
 
-<img src="https://www.codewars.com/users/mickyngub/badges/large" />
+- 🚀 Senior Software Engineer at **Zentry**
+- 🧠 AI transformation, agentic systems, and product engineering
+- 🛠️ Agentic AI, trading systems, Web3, and modern full-stack applications
+- 🌐 Website: [micky.sh](https://micky.sh)
+- 🎤 Slides: [slides.micky.sh](https://slides.micky.sh)
+- 📫 LinkedIn: [Pichaya Puttekulangkura](https://www.linkedin.com/in/pichaya-puttekulangkura/)
